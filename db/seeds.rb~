@@ -13,7 +13,7 @@ Product.create(title: 'Programming Ruby 1.9',
 		%{<p>
 			Ruby is the fastest growing and most exciting dynamic language out there. If you need to get working programs delivered fast, you should add Ruby to your toolbox.
 		</p>},
-	image_url: 'rails.png',
+	image_url: 'images/rails.png',
 	price: 49.95
 	)
 Product.create(title: 'Mr. Neighborly\'s Humble Little Ruby Book',
@@ -29,7 +29,7 @@ Product.create(title: 'Programming Ruby: The Pragmatic Programmers\' Guide',
 		%{<p>
 			If you\'re tired of quirk and just want a big, meaty guide to Ruby check out Programming Ruby: The Pragmatic Programmers\' Guide from The Pragmatic Bookshelf, frequently referred to as \"Pickaxe.\" It\'s considered by many to be the definitive guide to Ruby, and the first edition available for free. The updated second edition will cost you, however.
 		</p>},
-	image_url: 'rails.png',
+	image_url: 'images/rails.png',
 	price: 49.95
 	)
 Product.create(title: 'Learn to Program',
@@ -45,7 +45,7 @@ Product.create(title: 'How To Think Like a Computer Scientist: Learning With Rub
 		%{<p>
 			How To Think Like a Computer Scientist: Learning With Ruby by Elizabeth Wiethoff is a Ruby port of Allen B. Downey's How To Think Like a Computer Scientist series. It's not yet complete. Other variants can be found at Green Tea Press. The Python version of the book has been used by MIT for an introductory programming course.
 		</p>},
-	image_url: 'rails.png',
+	image_url: 'images/rails.png',
 	price: 49.95
 	)
 #...
